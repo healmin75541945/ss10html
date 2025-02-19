@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.main{
+    display: flex;
+    text-align: center;
+    gap: 10px;
+}
+.image{
+    width: 100px;
+    height: 100px;
+}
+.nd1{
+    width: 100px;
+    height: 40px;
+    background-color: rgb(206, 203, 203);
+    margin-bottom: 10px;
+}
+.nd2{
+    width: 100px;
+    height: 40px;
+    background-color: rgb(206, 203, 203);
+    margin-top: 10px;
+}
+b{
+    background: linear-gradient(to top, gray 30%,black );
+    background-clip: text;
+    color: transparent;
+}

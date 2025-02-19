@@ -1,0 +1,31 @@
+*{
+    box-sizing:border-box;
+    font-family: "Roboto", serif;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
+.container{
+    position: relative;
+    width: 300px;
+}
+button{
+    position: absolute;
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    border-radius: 4px;
+    right: 10px;
+    top: 10px;
+}
+.avatar{
+    display: flex;
+}
+.title{
+    width: 300px;
+    color: rgb(150, 149, 149);
+}
+h3{
+    width: 300px;
+}

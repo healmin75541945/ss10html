@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+}
+
+.main {
+    background-color: rgb(194, 194, 193);
+    height: 800px;
+    width: 670px;
+}
+
+.container {
+    display: flex;
+    width: 670px;
+    height: 200px;
+    border-bottom: 1px solid rgb(61, 50, 50);
+}
+
+.day {
+    display: flex;
+}
+
+.hv{
+    margin-left: 10px;
+    margin-top: 27px;
+}
+
+img {
+    margin-top: 30px;
+}
+
+.year {
+    background-color: rgb(6, 87, 19);
+    border-radius: 20px;
+    color: rgb(5, 4, 4);
+    padding: 5px;
+}
+
+.title {
+    margin-left: 10px;
+}
+
+h3 {
+    margin: 0px;
+}
+
+.lorem {
+    margin: 0px;
+}
+.icon{
+    margin-left: 250px ;
+    margin-top: 60px;
+}
+.fa-brands{
+    font-size: 25px;
+    margin: 8px;
+}
+.end{
+    margin-left: 220px;
+}
